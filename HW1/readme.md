@@ -1,5 +1,5 @@
 # (1) result screenshot  
-![screenshot]()
+![screenshot](https://github.com/auyu0408/DS/blob/main/HW1/result.png)
 # (2) program architecture  
 1. Open and read the file once line a time.  
 2. Convert all your reading into number (0~15).  
@@ -10,7 +10,7 @@
 7. Redo 1~6 until the end of the file.  
 8. Close the file.  
 ## 流程圖：  
-![image]()
+![image](https://github.com/auyu0408/DS/blob/main/HW1/image.jpg)
 # (3) program function   
 ```c
 static char encoding_table[] =  
