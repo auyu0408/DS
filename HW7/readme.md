@@ -1,7 +1,7 @@
 # HW7
 # (1) Result screenshot
 ![image0](https://github.com/auyu0408/DS/blob/main/HW7/screenshot.png)  
-Screenshot of command line
+Screenshot of command line  
 ![image1](https://github.com/auyu0408/DS/blob/main/HW7/screenshot2.png)  
 “output.txt” screenshot
 # (2) Program Architecture
