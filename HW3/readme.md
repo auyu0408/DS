@@ -15,7 +15,7 @@ Screenshot of “p1_output.txt”.
 7. if the word is DEQUEUE, read the word (A or B), and dequeue it from the tail of the queue you want. At the same time, print the number you dequeue on the output file.
 8. Redo the step 1 to 7,until the end of the file (EOF).
 9. Close the input file.   
-![流程圖  ](https://github.com/auyu0408/DS/blob/main/HW3/image.png)     
+![image3](https://github.com/auyu0408/DS/blob/main/HW3/image.jpg)     
 # (3) program function  
 ```c
 struct stackNode
@@ -224,7 +224,7 @@ Screenshot of “p2_output.txt” (since the output is too long, I only put part
 8. If it is not the item we want, dequeue it first and re enqueue it into the queue’s tail.
 9. Redo step 6~8 until the item we dequeuer is A when we do step 7.
 10. End the program.  
-![image](https://github.com/auyu0408/DS/blob/main/HW3/image2.png)
+![image](https://github.com/auyu0408/DS/blob/main/HW3/image2.jpg)
 # 3) program function
 ```C
 void enqueue(int);
